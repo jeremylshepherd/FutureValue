@@ -3,4 +3,4 @@
 
 This project was is the my starting point for the Lab #1. In order to practice and get more comfortable with the CLI, I worked in VSCODE and generated most of the project through the CLI.
 
-I was provided a sarting solution file but wanted to practice more fully so I coding this in parallel to the provided project. The next branch will be results from the coding assignment.
+I was provided a sarting solution file but wanted to practice more fully so I am coding this in parallel to the provided project. The next branch will be results from the coding assignment.
